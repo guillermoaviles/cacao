@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
         <footer>
-            Copyright 2023 Lungo
+            Copyright 2023 Cacao
         </footer>
     );
 }
